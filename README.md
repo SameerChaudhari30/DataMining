@@ -1,6 +1,6 @@
 # DM
 
-DM Project Summer 2022
+Data Mining Project Summer 2022
 
 Part 1 - LDA & ProdLDA
 
